@@ -6,7 +6,7 @@ Chào mừng đến với tổ chức GitHub **QTH-QAirline** – nơi phát tri
 
 - **[server](https://github.com/QTH-QAirline/server)**: Dịch vụ phía máy chủ (backend) sử dụng Node.js và Express, xử lý logic nghiệp vụ và quản lý cơ sở dữ liệu.
 
-👉 Để biết thêm chi tiết, vui lòng truy cập vào từng repository.
+Để biết thêm chi tiết, vui lòng truy cập vào từng repository.
 
 ---
 
